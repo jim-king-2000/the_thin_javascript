@@ -85,6 +85,6 @@ console.log(`The result of ${a} + ${b} is ${a + b}.`); // The result of 3 + 2 is
 Javascript使用throw来抛异常，使用try … catch … finally …来处理异常。异常的抛出，传播和处理与C++/Java/C#等语言非常相似。
 
 ## 实践
-1. 打开https://www.nodejs.org，下载node.js安装包。
+1. 打开 https://www.nodejs.org ，下载node.js安装包。
 1. 新建子目录，创建main.js文件，写入代码。
 1. 进入子目录，运行"node main.js"执行程序。
