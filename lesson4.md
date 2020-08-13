@@ -37,8 +37,8 @@ return <Text>{showName && name}</Text>;
 因此，操作符||经常被用来设置默认参数。但后来javascript增加了默认参数语法，因此操作符用来做默认参数的做法已经过时了。
 ```javascript
 function f(x) {
-const p = x || 3; // 把3设置为默认参数
-console.log(p);
+  const p = x || 3; // 把3设置为默认参数
+  console.log(p);
 }
 f(1); // 1
 f(); // 3
