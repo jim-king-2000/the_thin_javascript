@@ -13,3 +13,4 @@
 1. [第五课 函数与箭头表达式](lesson5.md)
 1. [第六课 数据类型与数组](lesson6.md)
 1. [第七课 对象与JSON](lesson7.md)
+1. [第八课 函数进阶一](lesson8.md)
