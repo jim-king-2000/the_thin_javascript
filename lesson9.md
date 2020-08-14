@@ -1,5 +1,5 @@
 # 第九课 函数进阶二
-1. 对象中的函数
+## 对象中的函数
 对象中可以定义函数。无论我们是在对象中直接定义函数或者我们定义一个类的方法，然后用该类实例化一个对象，在本质上都是一样的。因此，以下两种写法是等价的。
 
 写法一，直接在对象中定义函数。
@@ -51,7 +51,7 @@ TypeError: Cannot read property 'x' of undefined
 export default () => <Button onClick={obj.func} />; 
 // 回调函数传入了obj.func，这是一个普通函数，在该函数中的this是undefined。
 ```
-2. Function.bind
+## Function.bind
 如果我们需要解决上面的问题，我们当然可以传入一个箭头表达式，然后在箭头表达式中调用obj.func()。
 
 解决方案一，使用箭头表达式。

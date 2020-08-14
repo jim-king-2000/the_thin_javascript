@@ -14,3 +14,4 @@
 1. [第六课 数据类型与数组](lesson6.md)
 1. [第七课 对象与JSON](lesson7.md)
 1. [第八课 函数进阶一](lesson8.md)
+1. [第九课 函数进阶二](lesson9.md)
