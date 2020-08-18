@@ -49,5 +49,5 @@ Array.reduce是将数组中所有的元素映射成一个值。它的参数也�
 ```javascript
 [1, 2, 3, 4, 5].reduce((max, current) => max < current ? current : max); // 5
 ```
-数组的其它方法可以参考：https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+数组的其它方法可以参考：<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array>。
 

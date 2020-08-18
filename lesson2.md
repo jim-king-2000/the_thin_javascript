@@ -45,7 +45,7 @@ import sum from './add.mjs';
 ## 第三方库
 第三方库就是第三方已定义的库，一般托管在github上，使用npm命令下载到本地。在这里，我们介绍一下运行标准命令行的库shelljs。
 
-shelljs的介绍可参考：https://github.com/shelljs/shelljs
+shelljs的介绍可参考：<https://github.com/shelljs/shelljs>
 
 我们使用下面的命令来下载依赖包。
 
