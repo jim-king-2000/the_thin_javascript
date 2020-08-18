@@ -15,3 +15,5 @@
 1. [第七课 对象与JSON](lesson7.md)
 1. [第八课 函数进阶一](lesson8.md)
 1. [第九课 函数进阶二](lesson9.md)
+1. [第十课 高级语法糖](lesson10.md)
+1. [第十一课 神奇的this](lesson11.md)
