@@ -46,8 +46,8 @@ Array.reduce是将数组中所有的元素映射成一个值。它的参数也�
 [1, 2, 3, 4, 5].reduce((accumulator, current) => accumulator + current, 10); // 25
 ```
 如果需要求数组中最大元素的值，我们可以这样写：
-
+```javascript
 [1, 2, 3, 4, 5].reduce((max, current) => max < current ? current : max); // 5
-
+```
 数组的其它方法可以参考：https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
 
