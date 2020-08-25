@@ -25,3 +25,5 @@
 * [第十四课 HTTP server](lesson14.md)
 * [附录A ECMAScript版本介绍](appendixA.md)
 * [附录B 禁止使用的语法](appendixB.md)
+* [附录C 不推荐使用的语法](appendixC.md)
+* [附录D 常用小技巧](appendixD.md)
