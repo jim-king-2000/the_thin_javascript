@@ -27,3 +27,5 @@
 * [附录B 禁止使用的语法](appendixB.md)
 * [附录C 不推荐使用的语法](appendixC.md)
 * [附录D 常用小技巧](appendixD.md)
+* [附录E NPM使用指南](appendixE.md)
+* [附录F 参考资料](appendixF.md)
