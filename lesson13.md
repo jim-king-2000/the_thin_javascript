@@ -37,3 +37,5 @@ import fetch from 'node-fetch';
 我们用上面的代码就可以获取芝加哥时间。把最后的zone的名字改成"Asia\/Shanghai"就能获取上海的本地时间。想看到所有zone的名字，用下面的URL：http://api.timezonedb.com/v2/list-time-zone?key=VN4LIJM0J8I6&format=json。
 
 TimezoneDB的API文档请参考：<https://timezonedb.com/api>。
+
+[上一课](lesson12.md) &#124; [目录](README.md) &#124; [下一课](lesson14.md)

@@ -127,3 +127,5 @@ const [r0, r1, r2, r3] = await Promise.all([
   async_func3(),
 ]);
 ```
+
+[上一课](appendixC.md) &#124; [目录](README.md) &#124; [下一课](appendixE.md)

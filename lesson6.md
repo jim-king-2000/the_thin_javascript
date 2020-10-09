@@ -51,3 +51,4 @@ Array.reduce是将数组中所有的元素映射成一个值。它的参数也�
 ```
 数组的其它方法可以参考：<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array>。
 
+[上一课](lesson5.md) &#124; [目录](README.md) &#124; [下一课](lesson7.md)

@@ -108,3 +108,5 @@ add3(2); // 2 + 3
 const bind = (func, x) => y => func(x, y);
 ```
 等我们学习了后面的章节，我们就知道绑定任意多个参数的bind该如何实现。
+
+[上一课](lesson7.md) &#124; [目录](README.md) &#124; [下一课](lesson9.md)

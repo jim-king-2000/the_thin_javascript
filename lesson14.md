@@ -125,3 +125,5 @@ const port = 3000;
 app.listen(port, () => console.log(`listening port ${port}...`));
 ```
 在KOA router里，冒号开头的路径表示命名参数，冒号之后的内容就是参数名。在上面的例子中，路径名是'/b/:id'，参数名就是id。在代码中，URL路径参数被捕获在ctx.params中，因此我们用ctx.params.id来获取这个参数的值。在浏览器地址栏里输入localhost:3000/b/123试试看吧。
+
+[上一课](lesson13.md) &#124; [目录](README.md) &#124; [下一课](appendixA.md)

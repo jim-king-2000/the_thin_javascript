@@ -129,3 +129,5 @@ class Page extends Component {
   }
 }
 ```
+
+[上一课](lesson8.md) &#124; [目录](README.md) &#124; [下一课](lesson10.md)

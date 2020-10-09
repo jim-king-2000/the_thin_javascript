@@ -70,3 +70,5 @@ false == '0' // true
 const x = +"345";
 console.log(x, typeof x); // 345 'number'
 ```
+
+[上一课](lesson3.md) &#124; [目录](README.md) &#124; [下一课](lesson5.md)

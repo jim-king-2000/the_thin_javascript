@@ -181,3 +181,5 @@ x.func();
 	
 ## 参考资料
 [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+
+[上一课](lesson10.md) &#124; [目录](README.md) &#124; [下一课](lesson12.md)

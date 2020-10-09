@@ -88,3 +88,5 @@ Javascript使用throw来抛异常，使用try … catch … finally …来处理
 1. 打开<https://www.nodejs.org>，下载node.js安装包。
 1. 新建子目录，创建main.js文件，写入代码。
 1. 进入子目录，运行"node main.js"执行程序。
+
+[上一课](lesson0.md) &#124; [目录](README.md) &#124; [下一课](lesson2.md)

@@ -79,3 +79,5 @@ console.log(x); // error: x is not defined
 
 ## 命名函数表达式
 同上，禁用。
+
+[上一课](appendixA.md) &#124; [目录](README.md) &#124; [下一课](appendixC.md)

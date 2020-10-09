@@ -21,3 +21,5 @@
 node/npm一般使用package.json来管理工程项目。有了它之后，所有node的工程的启动命令都是一样的：`npm install&&npm start`。
 
 命令install可以简写成i，因此上面的`npm install`都可以换成`npm i`。一般推荐在脚本里用全名，因为可读性好；而自己敲命令，则可以敲简写，能够节省不少时间。
+
+[上一课](lesson2.md) &#124; [目录](README.md) &#124; [下一课](lesson4.md)

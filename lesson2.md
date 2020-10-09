@@ -63,3 +63,5 @@ shelljs.exec('ls -l *.mjs');
 
 ## Javascript的模块标准
 Javascript语言历史悠久。在最早期，这门语言是没有模块的。代码只能全部写在一起。到了后来渐渐开始有了对模块的需求。于是在漫长的发展过程中，出现了各种各样的模块标准。比较常用的有：CommonJS, AMD, CMD和ES Module等。我们上面介绍的就是最新的ES Module。不过上述语法仅限于在node.js中使用。浏览器的ES Module语法与上述语法略有不同。不过好在我们现在都是用前端框架来生成页面，很少直接在浏览器中使用ES Module了。
+
+[上一课](lesson1.md) &#124; [目录](README.md) &#124; [下一课](lesson3.md)

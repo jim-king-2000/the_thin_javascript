@@ -62,3 +62,5 @@ x => x + 1;
 ```javascript
 const calc = x => x + 1;
 ```
+
+[上一课](lesson4.md) &#124; [目录](README.md) &#124; [下一课](lesson6.md)

@@ -194,3 +194,5 @@ async function func() {
 (async () => readdir_async('./'))();
 ```
 在真实的项目中，我们基本上不用带回调函数的原始API，也不用`Promise.then`和`Promise.catch`。而是用`util.promisify`函数把带回调的API转换成返回`promise`的API，或者直接使用返回`promise`的新版API，然后就可以开始`async/await`了。
+
+[上一课](lesson11.md) &#124; [目录](README.md) &#124; [下一课](lesson13.md)

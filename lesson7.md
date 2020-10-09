@@ -249,3 +249,5 @@ JSON.stringify(v); // '{ "length": 30, "speed": 20 }'
 const s = '{ "x": 10, "y": 20 }';
 JSON.parse(s); // { x: 10, y: 30 }
 ```
+
+[上一课](lesson6.md) &#124; [目录](README.md) &#124; [下一课](lesson8.md)
