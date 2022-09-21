@@ -6,9 +6,9 @@ Javascript并不是传统意义上的面向对象语言。它的几乎所有实�
 ## 服务器端node.js
 ### 全局域
 我们可以在node.js里运行以下代码。
-
-    console.log(this);
-
+```javascript
+console.log(this);
+```
 我们会看到，程序的输出是undefined。这是因为标准规定，在服务器端，全局域的this的值为undefined。
 
 ### 普通函数
