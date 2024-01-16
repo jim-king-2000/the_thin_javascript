@@ -77,7 +77,7 @@ const [a, b, ...c] = [0, 1, 2, 3, 4, 5]; // a = 0, b = 1, c = [2, 3, 4, 5]
 const temp = 0;
 console.log(temp || '-');
 ```
-我们惊讶的发现，上述程序的运行结果是'-'。也就是说，合法的温度值，0度，显示不出来了。这时因为在javascript中，数字0被认为是falsy，因此||操作符会获取后一个表达式的值。
+我们惊讶的发现，上述程序的运行结果是'-'。也就是说，合法的温度值，0度，显示不出来了。这时因为在javascript中，数字0被认为是falsy，因此`||`操作符会获取后一个表达式的值。
 
 如果我们希望能够显示0，我们可以使用nullish coalescing operator。它只有在值为null或者undefined的情况下，才会判断为false。
 ```javascript
